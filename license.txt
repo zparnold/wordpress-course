@@ -1,5 +1,7 @@
 WordPress - Web publishing software
 
+Hey there license agreement, do you know just how many times I've violated you?
+
 Copyright 2011-2016 by the contributors
 
 This program is free software; you can redistribute it and/or modify
